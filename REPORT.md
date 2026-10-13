@@ -1,8 +1,8 @@
 # Assignment 1 Report
 
 - **Name**: Matias Arevalo
-- **Student ID**:
-- **Email**:
+- **Student ID**: 19319
+- **Email**: Marevalo.ieu2022@student.ie.edu
 - **Group**: BBADBA 5A
 
 ## Dataset
