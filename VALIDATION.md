@@ -22,7 +22,7 @@ Checked on 13 October 2026 with Python 3.12.14 and the supplied `uv.lock`.
 The dashboard was checked through its startup response and Gradio API callbacks.
 A browser visual review was not performed. Test-launch proxy settings specific
 to this environment were cleared; no such changes are needed in project code.
-The GitHub Actions workflow has not been run on your fork.
+The GitHub Actions workflow (Verify Assignment 1) runs on every push to the fork.
 
 ## Changes made while packaging
 
